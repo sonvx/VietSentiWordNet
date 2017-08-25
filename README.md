@@ -7,17 +7,18 @@
 
 ### Citation
 ```
-@article{DBLP:journals/corr/VuP14,
+@article{SonVu:14,
   author    = {Xuan{-}Son Vu and
                Seong{-}Bae Park},
   title     = {Construction of Vietnamese SentiWordNet by using Vietnamese Dictionary},
-  journal   = {CoRR},
-  volume    = {abs/1412.8010},
+  journal   = {The 40th Conference of the Korea Information Processing Society",
   year      = {2014},
   url       = {http://arxiv.org/abs/1412.8010},
-  timestamp = {Wed, 07 Jun 2017 14:41:44 +0200},
+  timestamp = {April-09-2014},
   biburl    = {http://dblp.uni-trier.de/rec/bib/journals/corr/VuP14},
-  bibsource = {dblp computer science bibliography, http://dblp.org}
+  bibsource = {dblp computer science bibliography, http://dblp.org},
+  pages     = {745--748},
+  note      = {Best paper award}
 }
 
 ```
