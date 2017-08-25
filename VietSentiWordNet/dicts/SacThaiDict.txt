@@ -1,0 +1,18 @@
+﻿#Cấu trúc: 2 cột cách nhau bởi một dấu tab.
+rất	2
+lắm	1.5
+cũng	0.8
+chỉ	0.7
+vẫn	0.8
+chẳng	0.7
+chưa	0.7
+có_thể	1.1
+hầu_như	0.8
+chả	0.5
+hoàn_chỉnh	1.4
+chỉnh	1.4
+cũng	0.6
+có_nhiều	1.2
+quá_nhiều 1.4
+cực	2
+siêu	3

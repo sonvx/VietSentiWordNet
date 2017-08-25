@@ -1,0 +1,12 @@
+trainDataFile=train8.tagged
+testDataFile=test8.tagged
+trainLogFile=trainlog8.txt
+
+cpRareThreshold=2
+fRareThreshold=1
+
+numIterations=150
+
+evaluateDuringTraining=true
+saveBestModel=true
+

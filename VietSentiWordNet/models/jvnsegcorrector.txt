@@ -1,0 +1,162 @@
+﻿hậu_sự_([^ \t\n]*)		hậu_sự $1
+hậu_sản_([^ \t\n]*)		hậu_sản $1
+([^ \t\n]*)_tâm_sự		$1 tâm_sự
+họa_sĩ_([^ \t\n]*)		họa_sĩ $1
+([^ \t\n]*)_khuyến_cáo		$1 khuyến_cáo
+([^ \t\n]*)_là			$1 là			thì_là;thật_là;bàn_là;gọi_là;là_là
+([^ \t\n]*)_lý_giải		$1 lý_giải
+hà_nội_([^ \t\n]*)		hà_nội $1
+hàn_quốc_([^ \t\n]*)		hàn_quốc $1
+hình_thể_([^ \t\n]*)		hình_thể $1
+hình_thức_([^ \t\n]*)		hình_thức $1
+hình_ảnh_([^ \t\n]*)		hình_ảnh $1		hình_ảnh_động
+hòa_bình_([^ \t\n]*)		hòa_bình $1
+([^ \t\n]*)_hoàn_toàn		$1 hoàn_toàn
+hướng_dẫn_viên_([^ \t\n]*)	hướng_dẫn_viên $1
+hướng_dẫn_([^ \t\n]*)		hướng_dẫn $1
+hướng_([^ \t\n]*)		hướng $1		hướng_dẫn_viên;hướng_ngoại;hướng_nội;hướng_đi;hướng_đạo;hướng_về;hướng_tây;hướng_đông;hướng_nam;hướng_bắc;hướng_dẫn;hướng_nghiệp;hướng_tới;hướng_bắn
+hải_dương_([^ \t\n]*)		hải_dương $1		hải_dương_học
+hay_([^ \t\n]*)			hay $1			hay_sao;hay_biết
+ở_([^ \t\n]*)			ở $1			ở_ẩn;ở_cữ;ở_đâu;ở_đời
+đảo_([^ \t\n]*)			đảo $1			đảo_điên
+đất_([^ \t\n]*)			đất $1			đất_thịt;đất_bùn;đất_cát;đất_nước;đất_tư;đất_thổ;đất_học
+một số_([^ \t\n]*)		một_số $1
+có_([^ \t\n]*)			có $1			có_lẽ;có_thể;có_ích
+cô_bé_([^ \t\n]*)		cô_bé $1
+cô_bạn_gái_([^ \t\n]*)		cô_bạn_gái $1
+cô_bạn_([^ \t\n]*)		cô_bạn $1		cô_bạn_gái
+cô_giáo_([^ \t\n]*)		cô_giáo $1
+cô_([^ \t\n]*)			cô $1			cô_giáo;cô_bạn;cô_bạn_gái;cô_độc;cô_đơn;cô_quả;cô_quạnh
+cộng_sự_([^ \t\n]*)		cộng_sự	$1
+gia_đình_([^ \t\n]*)		gia_đình $1
+giết_([^ \t\n]*)		giết $1			giết_chóc
+cộng_sự_([^ \t\n]*)		cộng_sự $1
+gì_([^ \t\n]*)			gì $1			gì_gì;gì_gì_đó;gì_thế;gì_cơ;gì_vậy
+gương_mặt_([^ \t\n]*)		gương_mặt $1
+gồm_([^ \t\n]*)			gồm $1
+hay_([^ \t\n]*)			hay $1			hay_là;hay_sao
+hiểu_([^ \t\n]*)		hiểu $1			hiểu_biết;hiểu_nhầm;hiểu_chuyện
+hiện_([^ \t\n]*)		hiện $1			hiện_lên;hiện_thực;hiện_trạng;hiện_ra;hiện_nay;hiện_hữu;hiện_hành;hiện_đại;hiện_đại_hóa;hiện_đại_hoá
+([^ \t\n]*)_nói			$1 nói
+([^ \t\n]*)_nhé			$1 nhé
+hoàn_toàn_([^ \t\n]*)		hoàn_toàn $1
+hoàn_trả_([^ \t\n]*)		hoàn_trả $1
+hoãn_([^ \t\n]*)		hoãn $1			hoãn_lại
+hoạt_động_([^ \t\n]*)		hoạt_động $1
+huy_động_lòng			huy động_lòng
+huy_động_([^ \t\n]*)		huy_động $1
+hỏi_([^ \t\n]*)			hỏi $1			hỏi_tội;hỏi_bệnh;hỏi_thăm;hỏi_đáp;hỏi_kỹ;hỏi_han
+hồ_cẩm_đào_([^ \t\n]*)		hồ_cẩm_đào $1
+([^ \t\n]*)_quy_định		$1 quy_định
+([^ \t\n]*)_quan_sát		$1 quan_sát
+hội_đồng_tình			hội đồng_tình
+hội_đồng_hương			hội đồng_hương
+hội_đồng_([^ \t\n]*)		hội_đồng $1		hội_đồng_thi
+hợp_thức_hóa_([^ \t\n]*)	hợp_thức_hóa $1
+khi_([^ \t\n]*)			khi $1			khi_đó;khi_nào;khi_ấy
+khá_([^ \t\n]*)			khá $1			khá_giả
+kỷ_vật_([^ \t\n]*)		kỷ_vật $1
+liên_minh_([^ \t\n]*)		liên_minh $1
+liên_tiếp_([^ \t\n]*)		liên_tiếp $1
+liên_hiệp_([^ \t\n]*)		liên_hiệp $1		liên_hiệp_quốc
+luyện_tập_([^ \t\n]*)		luyện_tập $1
+liên_hoàn_toàn			liên hoàn_toàn
+liên_hoàn_thành			liên hoàn_thành
+liên_xô_([^ \t\n]*)		liên_xô
+làm_([^ \t\n]*)			làm $1			làm_ăn;làm_lụng
+lãnh_sự_([^ \t\n]*)		lãnh_sự $1		lãnh_sự_quán
+lịch_sử_([^ \t\n]*)		lịch_sử $1
+môi_trường_([^ \t\n]*)		môi_trường $1
+mọi_([^ \t\n]*)			mọi $1			mọi_người;mọi_nơi;mọi_lúc;mọi_việc
+mối_tình_([^ \t\n]*)		mối_tình $1		mối_tình_đầu
+phim_truyền_hình_([^ \t\n]*)	phim_truyền_hình $1
+phim_truyện_([^ \t\n]*)		phim_truyện $1
+phân_tích_([^ \t\n]*)		phân_tích $1
+phân_tử_([^ \t\n]*)		phân_tử $1
+phân_định_([^ \t\n]*)		phân_định $1
+phía_([^ \t\n]*)		phía $1			phía_tây;phía_ta;phía_đông;phía_bắc;phía_trong;phía_nam
+không_biết_([^ \t\n]*)		không_biết $1		không_biết_chừng
+không_bao_giờ_([^ \t\n]*)	không_bao_giờ $1
+không_thể_([^ \t\n]*)		không_thể $1		không_thể_nào
+([^ \t\n]*)_thản_nhiên		$1 thản_nhiên
+phương_trình_([^ \t\n]*)	phương_trình $1
+phương_tiện_([^ \t\n]*)		phương_tiện $1
+phản_đối_([^ \t\n]*)		phản_đối $1
+phản_ứng_([^ \t\n]*)		phản_ứng $1
+phố_([^ \t\n]*)			phố $1			phố_cổ;phố_phường
+phổ_thông_([^ \t\n]*)		phổ_thông $1
+phụ_nữ_([^ \t\n]*)		phụ_nữ $1
+phủ_nhận_([^ \t\n]*)		phủ_nhận $1
+quyết_định_([^ \t\n]*)		quyết_định $1
+quân_sự_([^ \t\n]*)		quân_sự $1
+quốc_gia_([^ \t\n]*)		quốc_gia $1
+quốc_tế_([^ \t\n]*)		quốc_tế $1		quốc_tế_hóa
+ra_([^ \t\n]*)			ra $1
+riêng_([^ \t\n]*)		riêng $1		riêng_biệt;riêng_rẽ;riêng_tư
+rằng_([^ \t\n]*)		rằng $1
+rồi_([^ \t\n]*)			rồi $1
+suy_nghĩ_([^ \t\n]*)		suy_nghĩ $1
+sài_gòn_([^ \t\n]*)		sài_gòn
+sẽ_([^ \t\n]*)			sẽ $1
+số_([^ \t\n]*)			số $1			số_đề;số_đếm;số_đông;số_lượng
+quân sự_([^ \t\n]*)		quân_sự $1
+tay vợt_([^ \t\n]*)		tay_vợt $1
+thanh_toán_hóa đơn		thanh_toán hóa_đơn
+theo_([^ \t\n]*)		theo $1			theo_sau;theo_nghĩa;theo_như;theo_dõi;theo_sát
+thành_([^ \t\n]*_[^ \t\n]*)	thành $1
+([^ \t\n]*)_sẽ			$1 sẽ			se_sẽ;sạch_sẽ;	
+([^ \t\n]*)_rồi			$1 rồi
+([^ \t\n]*)_đã			$1 đã
+([^ \t\n]*)_nói			$1 nói
+([^ \t\n]*)_suy_nghĩ		$1 suy_nghĩ
+([^ \t\n]*)_quyết_định		$1 quyết_định
+thành_công_ty_cổ_phần		thành công_ty cổ_phần
+thành_công_([^ \t\n]*)		thành_công $1		thành_công_lực
+thành_phố_([^ \t\n]*)		thành_phố $1
+thành_([^ \t\n]*)		thành $1		thành_sự;thành_công;thành_danh;thành_đạt;thành_tâm;thành_thị;thành_thân;thành_sự;thành_hình;thành_phố
+thái_bình_dương_([^ \t\n]*)	thái_bình_dương $1
+thái_lain_([^ \t\n]*)		thái_lan $1
+thích_ca_([^ \t\n]*)		thích ca_$1
+thông_báo_([^ \t\n]*)		thông_báo $1
+([^ \t\n]*)_ơi			$1 ơi
+thăm_([^ \t\n]*)		thăm $1			thăm_viếng;thăm_nhà;thăm_khám;thăm_hỏi;thăm_nuôi;thăm_nom;thăm_mộ
+thưa_([^ \t\n]*)		thưa $1
+thương_([^ \t\n]*)		thương $1		thương_binh;thương_hiệu;thương_mại;thương_hại;thương_hàn
+thường_bị_([^ \t\n]*)		thường bị $1
+thường_tình_([^ \t\n]*)		thường_tình $1
+thượng_hải_([^ \t\n]*)		thượng_hải $1
+thật_sự_([^ \t\n]*)		thật_sự $1
+triển_khai_([^ \t\n]*)		triển_khai $1
+triều_đại_([^ \t\n]*)		triều_đại $1
+trường_hợp_([^ \t\n]*)		trường_hợp $1
+trước_([^ \t\n]*)		trước $1		trước_kia;trước_đây;trước_đó
+trả_tiền_hậu_hĩnh		trả_tiền hậu_hĩnh
+trả_tiền_ngay			trả_tiền ngay
+trả_tiền_([^ \t\n]*)		trả tiền_$1
+ăn_([^ \t\n]*)			ăn $1			ăn_bám;ăn_cắp;ăn_chia;ăn_chơi;ăn_chắc;ăn_gian;ăn_chặn;ăn_đủ;ăn_đứt;ăn_ảnh
+([^ \t\n]*)_này			$1 này
+thật là				thật_là
+([^ \t\n]*)_trong		$1 trong		bên_trong
+sông_([^ \t\n]*)		sông $1			sông_nước
+dòng sông			dòng_sông
+giữa_([^ \t\n]*)		giữa $1
+ăn uống				ăn_uống
+thành lập			thành_lập
+bao cao_su			bao_cao_su
+cho_đến nay			cho_đến_nay
+giải mật			giải_mật
+chiếc_([^ \t\n]*)		chiếc $1
+cái_([^ \t\n]*)			cái $1
+con_số_([^ \t\n]*)		con_số $1
+con_vật_([^ \t\n]*)		con_vật $1
+con_([^ \t\n]*)			con $1			con_người;con_số;con_vật
+coi_([^ \t\n]*_[^ \t\n]*)	coi $1
+phó chủ_tịch			phó_chủ_tịch
+phó giám_đốc			phó_giám_đốc
+tổng giám_đốc			tổng_giám_đốc
+phó tổng_giám_đốc		phó_tổng_giám_đốc
+phó phòng			phó_phòng
+cục phó				cục_phó
+cục trưởng			cục_trưởng
+phó cục_trưởng			phó_cục_trưởng
+hay_không			hay không

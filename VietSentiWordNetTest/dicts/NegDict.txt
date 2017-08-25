@@ -1,0 +1,11 @@
+﻿không_thể
+không
+không_phải
+không_biết
+chưa
+chưa_thể
+chưa_phải
+chưa_biết
+chưa_có
+hem
+không_được

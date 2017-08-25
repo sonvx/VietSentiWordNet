@@ -1,0 +1,10 @@
+traindata_file=train0.tagged
+testdata_file=test0.tagged
+order=1
+num_iterations=100
+f_rare_threshold=1
+cp_rare_threshold=2
+init_lamda_val=0.05
+evaluate_during_training=1
+model_file=model.txt
+trainlog_file=trainlog0.txt
