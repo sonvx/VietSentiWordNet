@@ -5,6 +5,9 @@
 
 - VietSentiWordNetTest: A quick example to let you intergrate VSWN\_1.0 into your own project.
 
+# Screenshoot
+![Alt text](/images/vswn_example.png "Screenshot example of one given input")
+
 ### Citation
 ```
 @article{SonVu:14,
